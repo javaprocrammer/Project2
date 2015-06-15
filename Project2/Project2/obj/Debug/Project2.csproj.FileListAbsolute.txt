@@ -1,0 +1,11 @@
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Debug\Project2.AdminScreen.resources
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Debug\Project2.MembersScreen.resources
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Debug\Project2.SignInScreen.resources
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache

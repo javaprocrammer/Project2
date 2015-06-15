@@ -1,0 +1,14 @@
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\bin\Release\Project2.exe.config
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\bin\Release\Project2.exe
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\bin\Release\Project2.pdb
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.AdminScreen.resources
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.MembersScreen.resources
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.ReportsScreen.resources
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.SignInScreen.resources
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.Properties.Resources.resources
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.csproj.GenerateResource.Cache
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\RdlCompile.cache
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\RdlCompile.compiled
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.exe
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.pdb
+C:\Users\crambook\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.csprojResolveAssemblyReference.cache
